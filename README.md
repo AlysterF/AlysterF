@@ -20,7 +20,7 @@ I have worked many years in different business departments: sales, operations, p
 
 ### Take a look on my 8 Week SQL Challenge solutions!
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alysterf&repo=8week-SQL-challenge&show_owner=true&theme=nord)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alysterf&repo=8week-SQL-challenge&show_owner=true&theme=nord)](https://github.com/AlysterF/8week-SQL-challenge)
 
 ##
 
