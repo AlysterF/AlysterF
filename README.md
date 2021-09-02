@@ -4,7 +4,7 @@ I have worked many years in different business departments: sales, operations, p
 
 
 ![Alyster Status](https://github-readme-stats.vercel.app/api?username=alysterf&show_icons=true&theme=nord&include_all_commits=true&private_counts=true)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alysterf&layout=compact&theme=nord)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alysterf&layout=default&theme=nord)
 
 ##
 ### In the last months I've been working a lot with postgreSQL, Jupyter Notebook, Python and R.
@@ -20,7 +20,7 @@ I have worked many years in different business departments: sales, operations, p
 
 ### Take a look on my 8 Week SQL Challenge solutions!
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alysterf&repo=8week-SQL-challenge&show_owner=true&theme=nord)](https://github.com/AlysterF/8week-SQL-challenge)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alysterf&repo=8week-SQL-challenge&show_owner=true&theme=nord&show_language=true)](https://github.com/AlysterF/8week-SQL-challenge)
 
 ##
 
