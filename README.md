@@ -4,7 +4,7 @@ I have worked many years in different business departments: sales, operations, p
 
 
 ![Alyster Status](https://github-readme-stats.vercel.app/api?username=alysterf&show_icons=true&theme=nord&include_all_commits=true&private_counts=true)
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alysterf&layout=default&theme=nordprivate_counts=true)
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=alysterf&layout=default&theme=nord&private_counts=true)
 
 ##
 ### In the last months I've been working a lot with postgreSQL, Jupyter Notebook, Python and R.
